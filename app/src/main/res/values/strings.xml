@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SwipeRecListProject</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="my_item">My Item</string>
+    <string name="delete">DELETE</string>
+</resources>
